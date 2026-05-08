@@ -1443,3 +1443,6 @@
 1778220835,drayko.xyz,1
 1778220835,redirect.drayko.xyz,1
 1778220835,tbxm.drayko.xyz,1
+1778227083,drayko.xyz,1
+1778227083,redirect.drayko.xyz,1
+1778227083,tbxm.drayko.xyz,1
