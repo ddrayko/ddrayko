@@ -1584,3 +1584,6 @@
 1778440584,drayko.xyz,1
 1778440584,redirect.drayko.xyz,1
 1778440584,tbxm.drayko.xyz,1
+1778443492,drayko.xyz,1
+1778443492,redirect.drayko.xyz,1
+1778443492,tbxm.drayko.xyz,1
