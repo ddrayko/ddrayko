@@ -1800,3 +1800,6 @@
 1778933157,drayko.xyz,1
 1778933157,redirect.drayko.xyz,1
 1778933157,tbxm.drayko.xyz,1
+1778939689,drayko.xyz,1
+1778939689,redirect.drayko.xyz,1
+1778939689,tbxm.drayko.xyz,1
