@@ -1,7 +1,3 @@
-Voici une version en anglais, mise à jour avec **Codeberg** et **GitLab** :
-
----
-
 # Moving to Codeberg and GitLab
 
 Hello 👋
