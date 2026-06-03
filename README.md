@@ -1,37 +1,3 @@
-# Moving to Codeberg and GitLab
-
-Hello 👋
-
-I have decided to move my projects and primary activity to **Codeberg** and **GitLab** as part of an effort to reduce my dependence on Big Tech platforms and to support values such as privacy, free and open-source software, digital sovereignty, and community-driven services.
-
-➡️ My main profiles are now available at:
-
-* Codeberg: [https://codeberg.org/ddrayko](https://codeberg.org/ddrayko)
-* GitLab: [https://gitlab.com/drayko_dev](https://gitlab.com/drayko_dev)
-
-## Why this choice?
-
-* Reduce my reliance on large centralized platforms.
-* Support a free, open, and community-driven ecosystem.
-* Promote stronger privacy protection and digital sovereignty.
-* Favor services that align with the values of free and open-source software.
-
-## About this GitHub account
-
-This GitHub account is now used exclusively for voluntary and community contributions to the following project:
-
-* [https://github.com/NeoHeberg](https://github.com/NeoHeberg)
-
-I no longer publish my personal projects on GitHub.
-
-Thank you for your understanding, and see you on Codeberg or GitLab!
-
----
-
-Version un peu plus naturelle et professionnelle :
-
----
-
 # Moving My Development Activity to Codeberg and GitLab
 
 Hello 👋
@@ -59,5 +25,3 @@ This GitHub account is now maintained only for voluntary contributions to the fo
 I no longer use GitHub to host or publish my personal projects.
 
 Thank you for your understanding, and I look forward to connecting with you on Codeberg or GitLab.
-
----
