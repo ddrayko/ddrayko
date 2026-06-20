@@ -6,8 +6,8 @@ I have chosen to move my projects and primary development activity to **Codeberg
 
 ➡️ You can now find me here:
 
-* Codeberg: [https://codeberg.org/ddrayko](https://codeberg.org/ddrayko)
-* GitLab: [https://gitlab.com/drayko_dev](https://gitlab.com/drayko_dev)
+* Codeberg: [Codeberg](https://codeberg.org/ddrayko)
+* GitLab: [GitLab](https://gitlab.com/drayko_dev)
 
 ## Why this move?
 
@@ -20,7 +20,11 @@ I have chosen to move my projects and primary development activity to **Codeberg
 
 This GitHub account is now maintained only for voluntary contributions to the following community project:
 
-* [https://github.com/NeoHeberg](https://github.com/NeoHeberg)
+* [NeoHeberg](https://github.com/NeoHeberg)
+
+Additionally, since **20/06/2026**, the code of **ZeroHost** (a free hosting platform) has been published on GitHub. Because of this, this account is partially resuming activity in relation to that project.
+
+I also plan to migrate **FlexURL** to GitHub in the future. However, all my personal projects, as well as privacy-first projects such as **TBXM**, will remain hosted on Codeberg and GitLab.
 
 I no longer use GitHub to host or publish my personal projects.
 
