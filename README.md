@@ -1,31 +1,31 @@
-# Moving My Development Activity to Codeberg and GitLab
+# My Development Activity
 
-Hello 👋
+Hey 👋
 
-I have chosen to move my projects and primary development activity to **Codeberg** and **GitLab** in order to reduce my dependence on large centralized platforms and to better support values such as privacy, digital sovereignty, free and open-source software, and community-driven initiatives.
+Quick update on how I organize my projects:
 
-➡️ You can now find me here:
+## Pro projects → GitHub
 
-* Codeberg: [Codeberg](https://codeberg.org/ddrayko)
-* GitLab: [GitLab](https://gitlab.com/drayko_dev)
+All my "serious" or public projects live on GitHub:
 
-## Why this move?
+- **ZeroHost** – my free hosting platform → [ZeroHost-Code](https://github.com/ZeroHost-Code)
+- **FlexURL** – my URL shortener → [FlexURL-link](https://github.com/FlexURL-link)
+- **Portfolio** – my personal site
 
-* To reduce dependence on large centralized technology platforms.
-* To support a free, open, and community-oriented ecosystem.
-* To promote privacy, transparency, and digital sovereignty.
-* To use services that are more closely aligned with the principles of free and open-source software.
+## Personal projects / my stuff → Codeberg
 
-## About this GitHub account
+Everything personal, experimental, or privacy-first stays on Codeberg. No Microsoft involved.
 
-This GitHub account is now maintained only for voluntary contributions to the following community project:
+- **TBXM** and other personal projects
+- Everything I don't want in the spotlight
 
-* [NeoHeberg](https://github.com/NeoHeberg)
+➡️ Codeberg: [codeberg.org/ddrayko](https://codeberg.org/ddrayko)  
+➡️ GitLab: [gitlab.com/drayko_dev](https://gitlab.com/drayko_dev)
 
-Additionally, since **20/06/2026**, the code of **ZeroHost** (a free hosting platform) has been published on GitHub. Because of this, this account is partially resuming activity in relation to that project.
+## Contributions
 
-I also plan to migrate **FlexURL** to GitHub in the future. However, all my personal projects, as well as privacy-first projects such as **TBXM**, will remain hosted on Codeberg and GitLab.
+I still contribute to [NeoHeberg](https://github.com/NeoHeberg) from this GitHub account.
 
-I no longer use GitHub to host or publish my personal projects.
+---
 
-Thank you for your understanding, and I look forward to connecting with you on Codeberg or GitLab.
+Thanks for reading, see you on one platform or another 🙂
