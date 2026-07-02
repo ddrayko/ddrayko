@@ -12,17 +12,18 @@
     <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" width="32"/>
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="32"/>
     <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" width="32"/>
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" width="32"/>
   </div><br>
 <p align="center">🚀 My projects and where to find me</p>
   <div align="center">
     <a href="https://zero-host.org">
-    <img src="https://img.shields.io/static/v1?message=ZeroHost&logo=serverless&label=&color=00A86B&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="zerohost"  />
+    <img src="https://img.shields.io/static/v1?message=ZeroHost&label=&color=00A86B&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="zerohost"  />
     </a>
     <a href="https://flexurl.link">
-    <img src="https://img.shields.io/static/v1?message=FlexURL&logo=link&label=&color=6366F1&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="flexurl"  />
+    <img src="https://img.shields.io/static/v1?message=FlexURL&label=&color=6366F1&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="flexurl"  />
     </a>
     <a href="https://drayko.xyz">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=aboutdotme&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="portfolio"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="portfolio"  />
     </a>
     <a href="mailto:hello@drayko.xyz">
     <img src="https://img.shields.io/static/v1?message=Email&logo=protonmail&label=&color=8B89CC&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="email"  />
