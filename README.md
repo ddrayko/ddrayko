@@ -1,42 +1,19 @@
-<h1 align="center">👋 Hey, what's up?</h1><br>
-  <p align="center">I'm ddrayko, sysadmin by trade, dev on the side</p>
-  <p align="center">I run everything solo, and I tinker on projects like ZeroHost, FlexURL and a bunch of personal stuff too</p>
-<h2 align="center">A bit more about me</h2>
-  <p align="center">💻 The stack I hang out with the most</p>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" width="32" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="32" />
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" width="32"/>
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" width="32"/>
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" width="32"/>
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" width="32"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="32"/>
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" width="32"/>
-    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" width="32"/>
-  </div><br>
-<p align="center">🚀 My projects and where to find me</p>
-  <div align="center">
-    <a href="https://zero-host.org">
-    <img src="https://img.shields.io/static/v1?message=ZeroHost&label=&color=00A86B&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="zerohost"  />
-    </a>
-    <a href="https://flexurl.link">
-    <img src="https://img.shields.io/static/v1?message=FlexURL&label=&color=6366F1&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="flexurl"  />
-    </a>
-    <a href="https://drayko.xyz">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=222222&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="portfolio"  />
-    </a>
-    <a href="mailto:hello@drayko.xyz">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=protonmail&label=&color=8B89CC&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="email"  />
-    </a>
-    <a href="https://github.com/ddrayko">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="github logo"  />
-    </a>
-  </div><br>
+<div align="center">
 
-<h2 align="center">My activity</h2>
-  <br clear="both">
-    <picture><img src="https://pacman.abozanona.me?username=ddrayko" alt="pacman graph, actually"/></picture>
-  <br><div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
-  </div>
-<br><p align="center">⭐️ ddrayko - <a href="https://github.com/ddrayko">@ddrayko</a></p>
+# Hi, I'm ddrayko 👋
+
+**I work on @ZeroHost-Code and @FlexURL-link and some personal projects on this account**
+
+<a href="https://github.com/ddrayko"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40ddrayko-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40ddrayko-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://drayko.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-drayko.xyz-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-drayko.xyz-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
+
+<a href="https://github.com/ddrayko?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-5-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Lyon%2C_France-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Lyon%2C_France-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Company-ZeroHost--Code_and_%40FlexURL--link-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Company" src="https://www.shieldcn.dev/badge/Company-ZeroHost--Code_and_%40FlexURL--link-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture>
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Radix UI" src="https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Drizzle-C5F74F.svg?logo=drizzle&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Drizzle" src="https://www.shieldcn.dev/badge/-Drizzle-C5F74F.svg?logo=drizzle&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Next.js" src="https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="PostgreSQL" src="https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="React" src="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Tailwind CSS" src="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
+
+## 📦 Top Repositories
+
+<a href="https://github.com/ddrayko/homy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/homy.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="homy ⭐ 4" src="https://www.shieldcn.dev/github/stars/ddrayko/homy.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/portfolio.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="portfolio ⭐ 3" src="https://www.shieldcn.dev/github/stars/ddrayko/portfolio.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko/status"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/status.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="status ⭐ 2" src="https://www.shieldcn.dev/github/stars/ddrayko/status.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko/ddrayko"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="ddrayko ⭐ 1" src="https://www.shieldcn.dev/github/stars/ddrayko/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
