@@ -18,4 +18,8 @@
 
 <a href="https://github.com/ddrayko/homy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/homy.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="homy ⭐ 4" src="https://www.shieldcn.dev/github/stars/ddrayko/homy.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/portfolio.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="portfolio ⭐ 3" src="https://www.shieldcn.dev/github/stars/ddrayko/portfolio.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko/status"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/status.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="status ⭐ 2" src="https://www.shieldcn.dev/github/stars/ddrayko/status.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/ddrayko/ddrayko"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/ddrayko/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="ddrayko ⭐ 1" src="https://www.shieldcn.dev/github/stars/ddrayko/ddrayko.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a>
 
+## 📊​ Contribution History
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
