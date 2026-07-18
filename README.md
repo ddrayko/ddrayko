@@ -20,6 +20,6 @@
 
 ## 📊​ Contribution History
 
-[![Contribution History](https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&theme=github-compact)](https://github.com/ddrayko)
+[![Contribution History](https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&theme=github-compact)](https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&theme=github-compact)
 
 </div>
