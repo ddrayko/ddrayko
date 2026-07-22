@@ -22,4 +22,8 @@
 
 [![Contribution History](https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&theme=github-compact)](https://github-readme-activity-graph.vercel.app/graph?username=ddrayko&theme=github-compact)
 
+## 🔥​ My GitFut !
+
+[![My GitFut card](https://gitfut.com/ddrayko.png)](https://gitfut.com/ddrayko)
+
 </div>
