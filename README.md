@@ -25,7 +25,7 @@
 ## 🔥​ My GitFut !
 
 <a href="https://gitfut.com/ddrayko">
-  <img src="https://gitfut.com/ddrayko.png" alt="My GitFut card" width="400">
+  <img src="https://gitfut.com/ddrayko.png" alt="My GitFut card" width="200">
 </a>
 
 </div>
