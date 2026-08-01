@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm ddrayko
 
-## 🏖️ Currently on vacation
+### 🏖️ Currently on vacation
 
 Git activity will be limited during this time.
 
