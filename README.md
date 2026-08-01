@@ -1,15 +1,17 @@
 <div align="center">
 
-# Hey, I'm ddrayko 👋
+# 👋 Hi, I'm ddrayko
 
-## ⏸️ Reduced activity for now
+🏖️ **Currently on vacation** — Git activity will be limited during this time.
 
-I think I've lost myself a bit on certain aspects of my life, so for an undetermined amount of time, I'm refocusing on myself.
+Things will pick back up as usual once I'm back.
 
-Activity on my repos might be quieter than usual.
+Thanks for your understanding!
 
 ---
 
-*I'll be back with more energy soon.*
+*PS: Still home for a few more days before I actually leave — just more focused on sysadmin work right now than coding.*
+
+*PS2: Also recently installed Arch Linux — it's far from plug-and-play, so I've been spending a lot of time on initial config too.*
 
 </div>
