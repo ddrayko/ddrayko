@@ -16,6 +16,6 @@ Thanks for your understanding!
 
 *PS2: Also recently installed Arch Linux — it's far from plug-and-play, so I've been spending a lot of time on initial config too.*
 
-*PS3: PS3: Actually scratch that, I'm not on Arch Linux anymore — I'm on macOS via Hackintosh now. And I'm officially on vacation until August 10th, properly gone this time. See you when I'm back!*
+*PS3: Actually scratch that, I'm not on Arch Linux anymore — I'm on macOS via Hackintosh now. And I'm officially on vacation until August 10th, properly gone this time. See you when I'm back!*
 
 </div>
