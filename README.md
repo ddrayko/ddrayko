@@ -19,7 +19,6 @@ If you want to keep following my projects, head over to GitLab from now on.
 
 ---
 
-The incident that made me leave GitHub:
 <img width="1365" height="654" alt="image" src="https://github.com/user-attachments/assets/feaa7a15-d509-41e9-8905-d8396cbf2ba1" />
 
 ---
