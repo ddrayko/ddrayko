@@ -1,23 +1,27 @@
-## ⚠️ A note on the current GitHub situation
+## 🚀 I'm moving from GitHub to GitLab
 
-Following the **repeated incidents** hitting GitHub over the past few weeks (Actions, Git Operations, Pull Requests, API, Webhooks... the list goes on), I'm seriously considering leaving the platform.
+After weeks of repeated incidents on GitHub (Actions, Git Operations, Pull Requests, API, Webhooks...), I've made the call: I'm migrating my active development to GitLab.
 
-Nothing is decided yet, but I'm actively looking at alternatives:
+- 🦊 **New main platform** → [gitlab.com/ddrayko](https://gitlab.com/ddrayko)
+- 🐦 **Codeberg** → still on the fence about using it as a **backup mirror**, not decided yet
 
-- 🦊 **GitLab** → [gitlab.com/ddrayko](https://gitlab.com/ddrayko)
-- 🐦 **Codeberg** → [codeberg.org/ddrayko](https://codeberg.org/ddrayko)
+The only project staying on GitHub is:
 
-These mirrors are there as a precaution, in case things keep getting worse, and to keep my code safe outside a single point of failure.
+- `ddrayko/mrbeast-data` *(not even sure about this one yet)*
 
-On the container side, I'm also thinking about moving from **GHCR** to **Docker Hub** to distribute my images *(Homy is already there, FreeDash and FlexURL's Docker image are planned to follow)*.
+*(`ddrayko/status` has since been deleted.)*
 
-If you want to keep track of my projects, it might be worth following one of the mirrors above in addition to (or instead of) GitHub.
+Everything else is moving over to GitLab going forward.
+
+On the container side, I'm also moving from **GHCR** to **Docker Hub** to distribute my images *(Homy is already there, FreeDash and FlexURL's Docker image are planned to follow)*.
+
+If you want to keep following my projects, head over to GitLab from now on.
 
 ---
 
-<img width="1365" height="654" alt="image" src="https://github.com/user-attachments/assets/e57165c4-53e1-47d3-b1ac-bde3a3a0644c" />
+The incident that made me leave GitHub:
+<img width="1365" height="654" alt="image" src="https://github.com/user-attachments/assets/feaa7a15-d509-41e9-8905-d8396cbf2ba1" />
 
 ---
 
-*This note will be updated if a final decision is made to migrate.*
-
+*Thanks for following the journey: see you on GitLab.*
